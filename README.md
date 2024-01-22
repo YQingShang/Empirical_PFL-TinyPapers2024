@@ -15,7 +15,7 @@ conda env create -f env_cuda_latest.yaml # You may need to downgrade the torch u
 ## Data
 MIMIC-IV-ED data used can be obtained by first accessing official website [here](https://physionet.org/content/mimiciv/2.2/) and then following the processing pipelines in this [paper](https://www.nature.com/articles/s41597-022-01782-9).
 
-SGH-ED data is not available.
+SGH-ED data is not available to the public due to third-party restrictions.
 
 ## Usage
 For FL and PFL algorithms, run:
