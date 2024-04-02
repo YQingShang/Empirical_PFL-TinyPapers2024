@@ -18,4 +18,3 @@ if __name__ == "__main__":
     with Pool(len(le)) as pool:
         pool.map(run_local_epoch, le)
 
-(60,5)
