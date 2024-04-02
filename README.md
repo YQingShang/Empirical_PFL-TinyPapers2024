@@ -1,4 +1,4 @@
-# Evaluating the Efficacy of Federated Scoring Systems with Heterogeneous Electronic Health Records
+# EMPIRICAL EVALUATIONS OF PERSONALIZED FEDERATED LEARNING ON HETEROGENEOUS ELECTRONIC HEALTH RECORDS
 
 The original code of federated learning algorithms is available [here](https://github.com/TsingZ0/PFLlib).
 
